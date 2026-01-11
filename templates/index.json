@@ -478,7 +478,7 @@
           "type": "item",
           "settings": {
             "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "content": "<p><strong>We’re confident you’ll love it, but if for any reason you’re not 100% satisfied within 30 days of receiving your order, simply contact us.</strong></p><p>If you want it <strong>shorter</strong>, <strong>more reassuring</strong>, or <strong>more marketing-oriented</strong>, I can adjust it instantly.</p>"
           }
         }
       },
