@@ -14,16 +14,40 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_WETMYL": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
+            "url": ""
+          }
+        },
+        "message_GtDcbN": {
+          "type": "message",
+          "settings": {
+            "text": "30-Day Money-Back Guarantee",
+            "url": ""
+          }
+        },
+        "message_eUxyyc": {
+          "type": "message",
+          "settings": {
+            "text": "100% Secure Payment",
+            "url": ""
+          }
+        },
+        "message_HVCFji": {
+          "type": "message",
+          "settings": {
+            "text": "End-of-Year Limited Offer – 50% OFF",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_WETMYL",
+        "message_GtDcbN",
+        "message_eUxyyc",
+        "message_HVCFji"
       ],
       "settings": {
         "enable_sticky": false,
@@ -39,11 +63,39 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_YJ3CHK": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "layout": "horizontal",
+            "submenu_style": "bold_heading",
+            "image_heading_1": "",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_heading_2": "",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_YJ3CHK"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/42c207a1-42c7-469e-a44d-0300c86cb647.png",
-        "logo_max_width": 150,
+        "logo_max_width": 125,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -56,8 +108,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#301e17",
-        "transparent_logo": "shopify://shop_images/42c207a1-42c7-469e-a44d-0300c86cb647.png",
+        "transparent_header_text_color": "#ffffff",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0

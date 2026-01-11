@@ -31,6 +31,7 @@
         "logo_fKNUX9": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_CCQARf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -45,6 +47,7 @@
         "logo_BHHPMm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle.avif",
             "logo_width": 120,
             "link": ""
           }
@@ -52,6 +55,7 @@
         "logo_DwJknm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -452,15 +456,31 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "What’s the difference compared to traditional scrubs?",
+            "content": "<p><strong>Mechanical scrubs (grainy scrubs):</strong></p><p>❌ Rub and damage the skin<br/><br/>❌ Create invisible micro-tears<br/><br/>❌ Cause redness and irritation<br/><br/>❌ Only provide temporary results</p><p><strong>Our Peel Shot (enzymatic exfoliation):</strong></p><p>✅ Gently dissolves dead skin cells<br/><br/>✅ Respects the skin barrier<br/><br/>✅ Suitable for sensitive skin<br/><br/>✅ Visible, long-lasting results<br/><br/>✅ You can actually SEE impurities being removed (pilling effect)</p><p>Peel Shot combines professional-level effectiveness with absolute gentleness.<br/><br/>That’s why it’s even recommended by dermatologists.</p>"
+          }
+        },
+        "item_DjPmjb": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_bHxRjN": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_DjPmjb",
+        "item_bHxRjN"
       ],
       "settings": {
         "full_width": false,
