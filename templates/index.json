@@ -11,50 +11,13 @@
   "sections": {
     "image_with_text_overlay_pqcaLc": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_wRtMky": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_VygqC3": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_MdVwbm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_6CJHaD": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Button text",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_wRtMky",
-        "heading_VygqC3",
-        "richtext_MdVwbm",
-        "button_6CJHaD"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Enlarged_pores_and_blackheads_Transform_them.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -541,6 +504,34 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "image_with_text_overlay_f9mpR8": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_meAq8H": {
+          "type": "heading",
+          "settings": {
+            "text": "Enlarged pores and blackheads?Transform them permanently.",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_meAq8H"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Enlarged_pores_and_blackheads_Transform_them.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -553,6 +544,7 @@
     "featured_product_UMefcp",
     "tabs_AR7YJQ",
     "faq",
-    "contact_k3tQ8T"
+    "contact_k3tQ8T",
+    "image_with_text_overlay_f9mpR8"
   ]
 }
