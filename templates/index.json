@@ -38,8 +38,8 @@
             "size": "lg",
             "text": "SHOP NOW",
             "url": "",
-            "background": "",
-            "text_color": ""
+            "background": "#d6a6ad",
+            "text_color": "#ffffff"
           }
         }
       },
@@ -57,7 +57,7 @@
         "image_size": "auto",
         "image": "shopify://shop_images/Peelshot_main_PC.webp",
         "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
