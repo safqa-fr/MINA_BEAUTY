@@ -148,7 +148,7 @@
       "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "subheading": "",
+        "subheading": "ddd",
         "title": "Before/after",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "expand_image": false,
