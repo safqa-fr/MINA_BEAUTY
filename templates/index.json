@@ -16,12 +16,38 @@
           "type": "heading",
           "settings": {
             "text": "PEEL SHOT LINE",
-            "heading_tag": "h1"
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_RwjKib": {
+          "type": "subheading",
+          "settings": {
+            "text": "A new concept in pore care"
+          }
+        },
+        "subheading_QpXfEt": {
+          "type": "subheading",
+          "settings": {
+            "text": "gently exfoliates and refines pores as it absorbs."
+          }
+        },
+        "button_Khy37j": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "SHOP NOW",
+            "url": "",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_zKneCL"
+        "heading_zKneCL",
+        "subheading_RwjKib",
+        "subheading_QpXfEt",
+        "button_Khy37j"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -30,9 +56,9 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Peelshot_main_PC.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
