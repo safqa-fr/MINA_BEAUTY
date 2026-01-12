@@ -573,18 +573,6 @@
     },
     "image_with_text_overlay_f9mpR8": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_meAq8H": {
-          "type": "heading",
-          "settings": {
-            "text": "Enlarged pores and blackheads?Transform them permanently.",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_meAq8H"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
