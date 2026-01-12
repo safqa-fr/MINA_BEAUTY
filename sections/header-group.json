@@ -118,9 +118,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/42c207a1-42c7-469e-a44d-0300c86cb647.png",
-        "logo_max_width": 125,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/afbe64c6-48dc-4256-8c7a-4a16e00bc180_d0b97de6-1189-41dc-b1b7-225bc7a4ca95.png",
+        "logo_max_width": 115,
+        "logo_mobile_max_width": 115,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
