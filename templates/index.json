@@ -17,7 +17,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Enlarged_pores_and_blackheads_Transform_them.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -148,7 +147,7 @@
       "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "subheading": "ddd",
+        "subheading": "",
         "title": "Before/after",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "expand_image": false,

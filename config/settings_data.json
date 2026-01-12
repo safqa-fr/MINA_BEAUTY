@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "page_width": 1600,
     "section_vertical_spacing": "medium",
     "button_border_radius": 60,
     "input_border_radius": 8,
@@ -18,10 +19,10 @@
     "background": "#fbf4f5",
     "text_color": "#2e2e2e",
     "success_color": "#7fb3a2",
-    "warning_color": "#e6c98a",
+    "warning_color": "#ac9f73",
     "error_color": "#d46a6a",
-    "header_background": "#fbf4f5",
-    "header_text_color": "#2e2e2e",
+    "header_background": "#ffffff",
+    "header_text_color": "#000000",
     "footer_background": "#fbf4f5",
     "footer_text_color": "#2e2e2e",
     "dialog_background": "#fbf4f5",
