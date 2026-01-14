@@ -109,9 +109,9 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -122,63 +122,20 @@
         "logo_item_border": ""
       }
     },
-    "multi_column_iNXBgL": {
-      "type": "multi-column",
-      "blocks": {
-        "item_4azqcd": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_M9rYpi": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_byyW3L": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_4azqcd",
-        "item_M9rYpi",
-        "item_byyW3L"
-      ],
-      "name": "Multi-column",
+    "image_with_text_overlay_LfQ8kg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/d2c08c4b-09af-4288-b0e7-4b7ac2fd5730.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "before_after_image_m74AJi": {
@@ -410,7 +367,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "korean-peel-shot-removes-impurities-and-reveals-radiant-skin",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -570,35 +527,18 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "image_with_text_overlay_f9mpR8": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Enlarged_pores_and_blackheads_Transform_them.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "image_with_text_overlay_pqcaLc",
     "logo_list_RQkXDw",
-    "multi_column_iNXBgL",
+    "image_with_text_overlay_LfQ8kg",
     "before_after_image_m74AJi",
     "multi_column_azTTtc",
     "multi_column_ndzBQp",
     "featured_product_UMefcp",
     "tabs_AR7YJQ",
     "faq",
-    "contact_k3tQ8T",
-    "image_with_text_overlay_f9mpR8"
+    "contact_k3tQ8T"
   ]
 }
