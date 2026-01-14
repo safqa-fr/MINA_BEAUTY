@@ -131,11 +131,12 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/d2c08c4b-09af-4288-b0e7-4b7ac2fd5730.png",
+        "mobile_image": "shopify://shop_images/d2c08c4b-09af-4288-b0e7-4b7ac2fd5730.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 20
       }
     },
     "before_after_image_m74AJi": {
