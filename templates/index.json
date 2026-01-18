@@ -135,8 +135,8 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_color": "#fbf4f5",
+        "overlay_opacity": 20
       }
     },
     "before_after_image_m74AJi": {
