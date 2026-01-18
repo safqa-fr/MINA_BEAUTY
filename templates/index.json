@@ -109,7 +109,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur",
+        "title": "VU SUR",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -153,7 +153,7 @@
         "before_text": "Before",
         "after_text": "After",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
