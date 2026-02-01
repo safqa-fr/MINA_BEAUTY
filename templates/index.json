@@ -136,19 +136,27 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
-        "overlay_opacity": 9
+        "overlay_opacity": 0
       }
     },
-    "video_8rNRwL": {
+    "video_jdGzza": {
       "type": "video",
+      "blocks": {
+        "play_7HxJYP": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_7HxJYP"
+      ],
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
+        "allow_transparent_header": true,
+        "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
-        "mobile_video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -468,7 +476,7 @@
     "image_with_text_overlay_pqcaLc",
     "logo_list_RQkXDw",
     "image_with_text_overlay_LfQ8kg",
-    "video_8rNRwL",
+    "video_jdGzza",
     "multi_column_6PYHGh",
     "featured_product_UMefcp",
     "tabs_AR7YJQ",
