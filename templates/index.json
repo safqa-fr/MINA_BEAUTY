@@ -139,6 +139,22 @@
         "overlay_opacity": 0
       }
     },
+    "scrolling_text_ekF8f7": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "An innovative Korean technique",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "video_jdGzza": {
       "type": "video",
       "blocks": {
@@ -480,6 +496,7 @@
     "image_with_text_overlay_pqcaLc",
     "logo_list_RQkXDw",
     "image_with_text_overlay_LfQ8kg",
+    "scrolling_text_ekF8f7",
     "video_jdGzza",
     "multi_column_6PYHGh",
     "featured_product_UMefcp",
