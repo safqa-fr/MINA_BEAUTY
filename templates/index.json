@@ -153,7 +153,7 @@
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
