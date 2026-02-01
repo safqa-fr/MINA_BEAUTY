@@ -38,7 +38,7 @@
             "size": "lg",
             "text": "SHOP NOW",
             "url": "",
-            "background": "#d6a6ad",
+            "background": "#a1906d",
             "text_color": "#ffffff"
           }
         }
@@ -221,25 +221,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_WnTafH": {
-          "type": "item",
-          "settings": {
-            "column_size": "4",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_jCbNJy",
         "item_UnCJC4",
-        "item_rVk6rN",
-        "item_WnTafH"
+        "item_rVk6rN"
       ],
       "name": "Multi-column",
       "settings": {
