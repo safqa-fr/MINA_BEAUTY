@@ -213,7 +213,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/f597fba0e03e4367a3849aca7e3032c2.HD-1080p-2.5Mbps-59381845.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
