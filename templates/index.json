@@ -187,7 +187,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/7cdb6da00a0348dabe06381c93390d70.HD-1080p-2.5Mbps-59378272.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -200,7 +200,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/3d9165bb888644d492dbbbd529675e4f.HD-1080p-2.5Mbps-59378271.mp4",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
