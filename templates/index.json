@@ -261,6 +261,13 @@
           "type": "badges",
           "settings": {}
         },
+        "kaching_bundles_app_block_Cfr9r7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "price_UVyfVA": {
           "type": "price",
           "settings": {
@@ -309,6 +316,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_pGzLhG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_30_dec._2025_22_27_12-Photoroom_430x_b1ae6533-7fee-4cf1-8095-d597384606e2.avif",
+            "alignment": "center",
+            "max_width": 300
+          }
+        },
         "pickup_availability_iFxXpa": {
           "type": "pickup_availability",
           "settings": {}
@@ -318,6 +333,7 @@
         "liquid_Ak3Ea8",
         "title_z8rPjT",
         "badges_C4nmCR",
+        "kaching_bundles_app_block_Cfr9r7",
         "price_UVyfVA",
         "liquid_aEb3xY",
         "rating_Timbcn",
@@ -325,6 +341,7 @@
         "variant_picker_kRpJB6",
         "quantity_selector_LRCr7B",
         "buy_buttons_Wc3czP",
+        "image_pGzLhG",
         "pickup_availability_iFxXpa"
       ],
       "name": "Featured product",
@@ -344,54 +361,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "tabs_AR7YJQ": {
-      "type": "tabs",
-      "blocks": {
-        "tab_BFprKY": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
-            "page": ""
-          }
-        },
-        "tab_dgna7H": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
-        "tab_HdRt66": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_BFprKY",
-        "tab_dgna7H",
-        "tab_HdRt66"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "faq": {
@@ -452,13 +421,13 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -490,6 +459,17 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "177016196334efc811": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -500,8 +480,8 @@
     "video_jdGzza",
     "multi_column_6PYHGh",
     "featured_product_UMefcp",
-    "tabs_AR7YJQ",
     "faq",
-    "contact_k3tQ8T"
+    "contact_k3tQ8T",
+    "177016196334efc811"
   ]
 }
