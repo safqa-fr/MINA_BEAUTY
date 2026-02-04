@@ -38,7 +38,7 @@
             "size": "lg",
             "text": "SHOP NOW",
             "url": "",
-            "background": "#e3d0aeff",
+            "background": "#e3d0ae",
             "text_color": "#ffffff"
           }
         }
@@ -151,7 +151,7 @@
         "scrolling_speed": 10,
         "background": "",
         "background_gradient": "",
-        "text_color": "#655551ff",
+        "text_color": "#655551",
         "text_gradient": ""
       }
     },
@@ -253,7 +253,7 @@
         "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers</p>",
         "background": "",
         "background_gradient": "",
-        "text_color": "#655551ff"
+        "text_color": "#655551"
       }
     },
     "featured_product_UMefcp": {
@@ -271,9 +271,11 @@
             "heading_tag": "h2"
           }
         },
-        "badges_C4nmCR": {
-          "type": "badges",
-          "settings": {}
+        "text_E63emL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Year-End Special Offer - 50% OFF 🎁</p>"
+          }
         },
         "kaching_bundles_app_block_Cfr9r7": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
@@ -281,6 +283,10 @@
             "product": "{{section.settings.product}}",
             "manual_deal_block_id": ""
           }
+        },
+        "badges_C4nmCR": {
+          "type": "badges",
+          "settings": {}
         },
         "price_UVyfVA": {
           "type": "price",
@@ -346,8 +352,9 @@
       "block_order": [
         "liquid_Ak3Ea8",
         "title_z8rPjT",
-        "badges_C4nmCR",
+        "text_E63emL",
         "kaching_bundles_app_block_Cfr9r7",
+        "badges_C4nmCR",
         "price_UVyfVA",
         "liquid_aEb3xY",
         "rating_Timbcn",
@@ -444,12 +451,12 @@
         "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#655551ff",
+        "text_color": "#655551",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#e3d0aeff",
+        "accordion_background": "#e3d0ae",
         "accordion_text_color": ""
       }
     },
@@ -465,12 +472,12 @@
         "contact_form_size": "large",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "#655551ff",
+        "text_color": "#655551",
         "heading_color": "rgba(0,0,0,0)",
         "heading_gradient": "",
-        "contact_background": "#e3d0aeff",
+        "contact_background": "#e3d0ae",
         "contact_text_color": "rgba(0,0,0,0)",
-        "button_background": "#655551ff",
+        "button_background": "#655551",
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
