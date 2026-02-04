@@ -444,12 +444,12 @@
         "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#000000",
+        "text_color": "#655551ff",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#e3d0ae",
+        "accordion_background": "#e3d0aeff",
         "accordion_text_color": ""
       }
     },
@@ -465,12 +465,12 @@
         "contact_form_size": "large",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "#000000",
+        "text_color": "#655551ff",
         "heading_color": "rgba(0,0,0,0)",
         "heading_gradient": "",
-        "contact_background": "#e3d0ae",
+        "contact_background": "#e3d0aeff",
         "contact_text_color": "rgba(0,0,0,0)",
-        "button_background": "#000000",
+        "button_background": "#655551ff",
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
