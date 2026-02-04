@@ -128,7 +128,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/d2c08c4b-09af-4288-b0e7-4b7ac2fd5730.png",
         "mobile_image": "shopify://shop_images/d2c08c4b-09af-4288-b0e7-4b7ac2fd5730.png",
@@ -145,7 +145,7 @@
       "settings": {
         "full_width": true,
         "text": "An innovative Korean technique",
-        "text_size": "medium",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
