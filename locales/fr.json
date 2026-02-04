@@ -87,7 +87,7 @@
       "sold_out_button": "Add to cart",
       "unavailable_button": "Indisponible",
       "added_to_cart": "Produit ajouté au panier !",
-      "sold_out_badge": "",
+      "sold_out_badge": "Sold out ",
       "on_sale_badge": "Promo",
       "discount_badge_html": "Economisez {{ savings }}",
       "sku": "SKU:",
