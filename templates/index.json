@@ -302,6 +302,7 @@
         },
         "rating_Timbcn": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
