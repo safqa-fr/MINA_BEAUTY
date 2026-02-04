@@ -418,7 +418,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": "Cette boutique est propulsée par",
+      "powered_by": "© 2026, Mina Beauty.",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
@@ -443,7 +443,7 @@
   },
   "shopify": {
     "links": {
-      "powered_by_shopify": " ."
+      "powered_by_shopify": "© 2026, Mina Beauty."
     }
   }
 }
