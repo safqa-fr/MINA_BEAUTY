@@ -38,7 +38,7 @@
             "size": "lg",
             "text": "SHOP NOW",
             "url": "",
-            "background": "#e3d0ae",
+            "background": "#e3d0aeff",
             "text_color": "#ffffff"
           }
         }
@@ -151,7 +151,7 @@
         "scrolling_speed": 10,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#655551ff",
         "text_gradient": ""
       }
     },
@@ -253,7 +253,7 @@
         "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers</p>",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#655551ff"
       }
     },
     "featured_product_UMefcp": {
