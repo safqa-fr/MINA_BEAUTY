@@ -38,7 +38,7 @@
             "size": "lg",
             "text": "SHOP NOW",
             "url": "",
-            "background": "#ac9f73",
+            "background": "#e3d0ae",
             "text_color": "#ffffff"
           }
         }
@@ -324,7 +324,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#ac9f73",
+            "atc_button_background": "#e3d0ae",
             "atc_button_text_color": "#000000",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -449,7 +449,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#ac9f73",
+        "accordion_background": "#e3d0ae",
         "accordion_text_color": ""
       }
     },
@@ -468,7 +468,7 @@
         "text_color": "#000000",
         "heading_color": "rgba(0,0,0,0)",
         "heading_gradient": "",
-        "contact_background": "#ac9f73",
+        "contact_background": "#e3d0ae",
         "contact_text_color": "rgba(0,0,0,0)",
         "button_background": "#000000",
         "button_text_color": "rgba(0,0,0,0)"
