@@ -56,9 +56,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#ac9f73",
-        "background_gradient": "linear-gradient(22deg, rgba(227, 208, 174, 1) 65%, rgba(101, 85, 81, 1) 100%)",
-        "text_color": "#000000"
+        "background": "#342827",
+        "background_gradient": "linear-gradient(22deg, rgba(198, 185, 160, 1) 41%, rgba(101, 85, 81, 1) 100%)",
+        "text_color": "#ffffff"
       }
     },
     "header": {
