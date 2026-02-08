@@ -55,7 +55,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "lg",
+        "image_size": "fill",
         "image": "shopify://shop_images/Peelshot_main_PC_3337feb8-6a4a-4d70-9d99-b94321b3590d.webp",
         "mobile_image": "shopify://shop_images/24082000811kopie_e2d77072-65e5-411e-a040-41d6b876bc25.webp",
         "mobile_text_position": "place-self-end-center text-center",
