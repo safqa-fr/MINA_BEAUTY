@@ -37,9 +37,9 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "SHOP NOW",
+            "text": "Start My Ritual",
             "url": "",
-            "background": "#e3d0ae",
+            "background": "#342827",
             "text_color": "#ffffff"
           }
         }
