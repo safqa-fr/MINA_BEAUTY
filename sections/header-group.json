@@ -14,37 +14,29 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_WETMYL": {
-          "type": "message",
-          "settings": {
-            "text": "FREE HOME DELIVERY",
-            "url": ""
-          }
-        },
         "message_GtDcbN": {
           "type": "message",
           "settings": {
-            "text": "SATISFIED OR YOUR MONEY BACK",
+            "text": "30-Day Money-Back Guarantee",
             "url": ""
           }
         },
         "message_eUxyyc": {
           "type": "message",
           "settings": {
-            "text": "100% SECURE PAYMENT",
+            "text": "100% Secure Payment",
             "url": ""
           }
         },
         "message_HVCFji": {
           "type": "message",
           "settings": {
-            "text": "NEW YEAR OFFER – 50% OFFLIMITED STOCK",
+            "text": "💘 Pré-Valentine’s Day – 50% OFF 💘",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_WETMYL",
         "message_GtDcbN",
         "message_eUxyyc",
         "message_HVCFji"
