@@ -42,7 +42,7 @@
         "message_HVCFji"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 4,
         "text_size": "text-xs",
