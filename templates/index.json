@@ -19,6 +19,13 @@
             "heading_tag": "h0"
           }
         },
+        "heading_ik9VAR": {
+          "type": "heading",
+          "settings": {
+            "text": "Gently Exfoliates And Refines Pores As It Absorbs",
+            "heading_tag": "h3"
+          }
+        },
         "subheading_RwjKib": {
           "type": "subheading",
           "disabled": true,
@@ -29,7 +36,7 @@
         "subheading_QpXfEt": {
           "type": "subheading",
           "settings": {
-            "text": "Gently Exfoliates And Refines Pores As It Absorbs"
+            "text": ""
           }
         },
         "button_Khy37j": {
@@ -46,6 +53,7 @@
       },
       "block_order": [
         "heading_zKneCL",
+        "heading_ik9VAR",
         "subheading_RwjKib",
         "subheading_QpXfEt",
         "button_Khy37j"
