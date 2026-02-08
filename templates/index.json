@@ -435,6 +435,63 @@
         "input_text_color": ""
       }
     },
+    "tabs_xqXbTM": {
+      "type": "tabs",
+      "blocks": {
+        "tab_mfyLxD": {
+          "type": "tab",
+          "settings": {
+            "title": "👉 White Rice or Black Rice?",
+            "content": "<h3>Our Two Peel Shots Are Complementary and Designed for Different Skin Needs</h3><h3>🤍 Peel Shot White Rice</h3><p><strong>Best for:</strong> Sensitive, normal, or dry skin</p><p><strong>Action:</strong> Gentle exfoliation with hydration</p><p><strong>Benefits:</strong></p><ul><li><br/>Instant glow<br/></li><li><br/>Refined skin texture<br/></li><li><br/>Enhanced hydration<br/></li><li><br/>Gentle on sensitive skin<br/></li><li><br/>Non-irritating<br/></li></ul><p><strong>Recommended use:</strong> 2–3 times per week</p><h3>🖤 Peel Shot Black Rice</h3><p><strong>Best for:</strong> Oily, combination, or blemish-prone skin</p><p><strong>Action:</strong> Intensive, purifying exfoliation</p><p><strong>Benefits:</strong></p><ul><li><br/>Deep pore cleansing<br/></li><li><br/>Helps reduce blackheads and impurities<br/></li><li><br/>Sebum control<br/></li><li><br/>Minimizes the appearance of enlarged pores<br/></li></ul><p><strong>Recommended use:</strong> 1–2 times per week (focus on problem areas)</p><h3>Our Recommendation</h3><p>Not sure which one to choose?<br/><br/>Start with <strong>White Rice</strong> if you have sensitive or normal skin.<br/><br/>Choose <strong>Black Rice</strong> if you’re dealing with enlarged pores or excess oil.</p><p><strong>Pro tip:</strong> You can also alternate between the two depending on your skin’s needs!</p>",
+            "page": ""
+          }
+        },
+        "tab_G8cFVP": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<h3>It’s Ultra-Simple in 3 Steps</h3><ol><li><br/>Cleanse your face and dry it completely<br/></li><li><br/>Apply a small amount to dry skin and gently massage in circular motions for 1–2 minutes<br/><br/><em>(you’ll see the little flakes — that’s dead skin being removed!)</em><br/></li><li><br/>Rinse with lukewarm water and follow with your moisturizer<br/></li></ol><p><strong>Frequency:</strong> Use 2–3 times per week maximum. Avoid over-exfoliating to prevent skin irritation.</p>",
+            "page": ""
+          }
+        },
+        "tab_Ra7eqR": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        },
+        "tab_V3CUfM": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_mfyLxD",
+        "tab_G8cFVP",
+        "tab_Ra7eqR",
+        "tab_V3CUfM"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "177016196334efc811": {
       "type": "apps",
       "blocks": {
@@ -592,6 +649,7 @@
     "video_jdGzza",
     "multi_column_6PYHGh",
     "featured_product_UMefcp",
+    "tabs_xqXbTM",
     "177016196334efc811",
     "faq",
     "contact_k3tQ8T",
