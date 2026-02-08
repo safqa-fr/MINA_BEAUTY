@@ -43,7 +43,7 @@
       ],
       "settings": {
         "enable_sticky": true,
-        "autoplay": true,
+        "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
