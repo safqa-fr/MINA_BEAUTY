@@ -42,8 +42,8 @@
         "message_HVCFji"
       ],
       "settings": {
-        "enable_sticky": false,
-        "autoplay": false,
+        "enable_sticky": true,
+        "autoplay": true,
         "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
