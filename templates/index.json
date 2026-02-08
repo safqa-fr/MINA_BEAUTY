@@ -321,15 +321,15 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_Fe3NjT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.2;\n  }\n</style>\n\n<p>🗸 Visible results from the first use</p>\n<p>🗸 Compatible with all skincare routines !</p>\n<p>🗸 White Rice – For sensitive skin</p>\n<p>🗸 Black Rice – Intensive care for oily skin & blackheads</p>"
+          }
+        },
         "badges_C4nmCR": {
           "type": "badges",
           "settings": {}
-        },
-        "price_UVyfVA": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "liquid_aEb3xY": {
           "type": "liquid",
@@ -403,8 +403,8 @@
       "block_order": [
         "liquid_Ak3Ea8",
         "title_z8rPjT",
+        "liquid_Fe3NjT",
         "badges_C4nmCR",
-        "price_UVyfVA",
         "liquid_aEb3xY",
         "text_E63emL",
         "kaching_bundles_app_block_Cfr9r7",
