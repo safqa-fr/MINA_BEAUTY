@@ -21,6 +21,7 @@
         },
         "subheading_RwjKib": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "A NEW CONCEPT IN PORE CARE"
           }
@@ -61,7 +62,7 @@
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 25
+        "overlay_opacity": 10
       }
     },
     "logo_list_RQkXDw": {
