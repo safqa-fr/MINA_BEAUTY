@@ -515,7 +515,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 35
+            "overlay_opacity": 20
           }
         },
         "collection_LGBmMR": {
@@ -530,7 +530,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 35
+            "overlay_opacity": 20
           }
         },
         "collection_XJC3Ng": {
@@ -545,7 +545,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 35
+            "overlay_opacity": 20
           }
         },
         "collection_cHV6nd": {
@@ -560,7 +560,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 35
+            "overlay_opacity": 20
           }
         }
       },
