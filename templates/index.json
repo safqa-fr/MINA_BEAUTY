@@ -620,7 +620,10 @@
           "settings": {
             "show_sample_reviews": true,
             "reviews_selection": "all",
-            "products": [],
+            "products": [
+              "korean-peel-shot-exfoliant-black-rice-ampoule",
+              "korean-peel-shot-removes-impurities-and-reveals-radiant-skin"
+            ],
             "star_rating": "all",
             "show_review_media": true,
             "display_order": "media_first",
