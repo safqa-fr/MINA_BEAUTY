@@ -548,7 +548,7 @@
             "corner_styling": "soft",
             "header_text_color": "#000000",
             "text_color": "#000000",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_color": "",
             "arrows_color": "#000000",
             "transition_speed": 5,
@@ -573,9 +573,9 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "header_text_color": "#000000",
-            "card_color": "#7D7D7D",
+            "card_color": "#7d7d7d",
             "stars_color": "",
-            "text_color": "#FFFFFF",
+            "text_color": "#ffffff",
             "arrows_color": "#000000",
             "show_drop_shadow": false,
             "show_border": false,
@@ -644,7 +644,7 @@
           "type": "item",
           "settings": {
             "title": "What if I don’t like the product?",
-            "content": "<p><strong>We’re confident you’ll love it, but if for any reason you’re not 100% satisfied within 30 days of receiving your order, simply contact us.</strong></p><p>If you want it <strong>shorter</strong>, <strong>more reassuring</strong>, or <strong>more marketing-oriented</strong>, I can adjust it instantly.</p>"
+            "content": "<p><strong>We’re confident you’ll love it, but if for any reason you’re not 100% satisfied within 30 days of receiving your order, simply contact us.</strong></p>"
           }
         }
       },
