@@ -346,6 +346,7 @@
         },
         "text_E63emL": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Pré-Valentine’s Day – 50% OFF </strong>🎁</p>"
           }
