@@ -507,9 +507,10 @@
         "item_GJ39cF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/22_1.jpg",
             "column_size": "3",
             "title": "NIACINAMIDE",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p>Brightening & Pore RefiningHelps improve skin clarity, balance excess oil, and visibly minimize the appearance of pores for a smoother, more even-looking complexion.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
@@ -519,10 +520,11 @@
         "item_4RLJ78": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/La_Fourche_-_Riz_Thai_Demi-Complet_Bio_En_Sachet_Kraft.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "RICE EXTRACT",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Natural Smoothing & RadianceHelps remove excess oil and dead skin cells for smoother, softer skin and visibly improved texture.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -531,10 +533,11 @@
         "item_4Mpd7W": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AHA_vs__BHA_Exfoliants__What_s_the_Difference.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "AHA + BHA",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Gentle Yet Deep ExfoliationHelps gently remove dead skin cells, deeply unclog pores, and refine skin texture for a smoother, brighter, and more even-looking complexion.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -543,10 +546,11 @@
         "item_DNwq7E": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Skincode-Ingredients-Pentavitin.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "PENTAVITIN",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Long-Lasting HydrationHelps lock moisture into the skin, prevent post-exfoliation dryness, and keep your skin feeling comfortable and hydrated all day long.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -559,6 +563,7 @@
         "item_4Mpd7W",
         "item_DNwq7E"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -658,7 +663,7 @@
         "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "rgba(0,0,0,0)",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -675,7 +680,7 @@
             "max-characters": 180,
             "autoplay": true,
             "autoplay-delay": 5,
-            "main-color": "#ae8868",
+            "main-color": "#e3d0ae",
             "stars-color": "#40c575",
             "show-review-text": true,
             "text-color": "",
