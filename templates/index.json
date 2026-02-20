@@ -501,6 +501,78 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_jkV37C": {
+      "type": "multi-column",
+      "blocks": {
+        "item_GJ39cF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "NIACINAMIDE",
+            "heading_tag": "h4",
+            "content": "<p>Brightening & Pore RefiningHelps improve skin clarity, balance excess oil, and visibly minimize the appearance of pores for a smoother, more even-looking complexion.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4RLJ78": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4Mpd7W": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DNwq7E": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_GJ39cF",
+        "item_4RLJ78",
+        "item_4Mpd7W",
+        "item_DNwq7E"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "High-Quality Ingredients !",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection_list_QEjjGR": {
       "type": "collection-list",
       "blocks": {
@@ -826,6 +898,7 @@
     "multi_column_6PYHGh",
     "featured_product_UMefcp",
     "tabs_xqXbTM",
+    "multi_column_jkV37C",
     "collection_list_QEjjGR",
     "177016196334efc811",
     "faq",
