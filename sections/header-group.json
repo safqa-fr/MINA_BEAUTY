@@ -24,7 +24,7 @@
         "message_gBzMbk": {
           "type": "message",
           "settings": {
-            "text": "🎉 NEW YEAR SALE – 50% OFF | LIMITED STOCK 🎉",
+            "text": "NEW YEAR SALE – 50% OFF | LIMITED STOCK",
             "url": ""
           }
         },
@@ -37,6 +37,7 @@
         },
         "message_HVCFji": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "💘 Valentine’s Day – 50% OFF 💘",
             "url": "shopify://collections/all"
