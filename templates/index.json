@@ -76,12 +76,6 @@
     "rich_text_wQidyC": {
       "type": "rich-text",
       "blocks": {
-        "subheading_cF9Yyz": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_6jn6MH": {
           "type": "heading",
           "settings": {
@@ -90,18 +84,10 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "richtext_ePABVG": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
         }
       },
       "block_order": [
-        "subheading_cF9Yyz",
-        "heading_6jn6MH",
-        "richtext_ePABVG"
+        "heading_6jn6MH"
       ],
       "name": "Rich text",
       "settings": {
