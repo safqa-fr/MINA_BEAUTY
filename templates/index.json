@@ -373,8 +373,8 @@
         "buy_buttons_Wc3czP": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": false,
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
             "atc_button_background": "#e3d0ae",
             "atc_button_text_color": "#000000",
             "payment_button_background": "",
