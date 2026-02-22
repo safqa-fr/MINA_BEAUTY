@@ -662,126 +662,19 @@
         "text_color": ""
       }
     },
-    "collection_list_QEjjGR": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_mTYpPB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/22_1.jpg",
-            "subheading": "NIACINAMIDE",
-            "title": "Brightening & Pore RefiningHelps improve skin clarity, balance excess oil, and visibly minimize the appearance of pores for a smoother, more even-looking complexion.",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20
-          }
-        },
-        "collection_LGBmMR": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/La_Fourche_-_Riz_Thai_Demi-Complet_Bio_En_Sachet_Kraft.webp",
-            "subheading": "RICE EXTRACT",
-            "title": "Natural Smoothing & RadianceHelps remove excess oil and dead skin cells for smoother, softer skin and visibly improved texture.",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20
-          }
-        },
-        "collection_XJC3Ng": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/AHA_vs__BHA_Exfoliants__What_s_the_Difference.webp",
-            "subheading": "AHA + BHA",
-            "title": "Gentle Yet Deep ExfoliationHelps gently remove dead skin cells, deeply unclog pores, and refine skin texture for a smoother, brighter, and more even-looking complexion.",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20
-          }
-        },
-        "collection_cHV6nd": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/Skincode-Ingredients-Pentavitin.webp",
-            "subheading": "PENTAVITIN",
-            "title": "Long-Lasting HydrationHelps lock moisture into the skin, prevent post-exfoliation dryness, and keep your skin feeling comfortable and hydrated all day long.",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20
-          }
-        }
-      },
-      "block_order": [
-        "collection_mTYpPB",
-        "collection_LGBmMR",
-        "collection_XJC3Ng",
-        "collection_cHV6nd"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 2,
-        "show_progress_bar": true,
-        "subheading": "",
-        "title": "High-Quality Ingredients !",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "rgba(0,0,0,0)",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "177016196334efc811": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_dynamic_carousel_iFzCV7": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "judge_me_reviews_featured_carousel_8jWqDj": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "corner-radius": 40,
-            "items-per-view": 2,
-            "items-per-view-mobile": 3,
-            "max-characters": 180,
-            "autoplay": true,
-            "autoplay-delay": 5,
-            "main-color": "#e3d0ae",
-            "stars-color": "#40c575",
-            "show-review-text": true,
-            "text-color": "",
-            "reviewer-name-color": "",
-            "verified-badge-color": "",
-            "quote-marks-icon": "style-1",
-            "quote-marks-icon-color": "",
-            "review-background-color": "",
-            "product-ids": ""
+            "maxwidth": 1080
           }
         },
         "judge_me_reviews_cards_carousel_jLN9hM": {
           "type": "shopify://apps/judge-me-reviews/blocks/cards_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
-            "show_sample_reviews": true,
+            "show_sample_reviews": false,
             "reviews_selection": "all",
             "products": [
               "korean-peel-shot-exfoliant-black-rice-ampoule",
@@ -790,7 +683,7 @@
             "star_rating": "all",
             "show_review_media": true,
             "display_order": "media_first",
-            "no_image_fallback": "review_text_only",
+            "no_image_fallback": "product_image",
             "max_reviews": 20,
             "review_length": "medium",
             "text_size": "medium",
@@ -812,42 +705,33 @@
             "show_average_rating": true
           }
         },
-        "judge_me_reviews_videos_carousel_yfcwAx": {
-          "type": "shopify://apps/judge-me-reviews/blocks/videos_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "loox_reviews_loox_dynamic_carousel_iFzCV7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "disabled": true,
           "settings": {
-            "show_sample_reviews": true,
-            "reviews_selection": "all",
-            "products": [],
-            "star_rating": "all",
-            "review_type": "photo_and_video",
-            "max_reviews": 20,
-            "show_reviewer_name": true,
-            "stars_size": "medium",
-            "text_size": "medium",
-            "arrows_position": "bottom",
-            "max_width": 1100,
-            "corner_styling": "soft",
-            "header_text_color": "#000000",
-            "card_color": "#7d7d7d",
-            "stars_color": "",
-            "text_color": "#ffffff",
-            "arrows_color": "#000000",
-            "show_drop_shadow": false,
-            "show_border": false,
-            "border_color": "#108474",
-            "autoplay_media": true,
-            "transition_speed": 5,
-            "carousel_style": "highlight",
-            "header_text": "Real customer stories",
-            "show_average_rating": true
+            "corner-radius": 40,
+            "items-per-view": 2,
+            "items-per-view-mobile": 3,
+            "max-characters": 180,
+            "autoplay": true,
+            "autoplay-delay": 5,
+            "main-color": "#e3d0ae",
+            "stars-color": "#40c575",
+            "show-review-text": true,
+            "text-color": "",
+            "reviewer-name-color": "",
+            "verified-badge-color": "",
+            "quote-marks-icon": "style-1",
+            "quote-marks-icon-color": "",
+            "review-background-color": "",
+            "product-ids": ""
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_dynamic_carousel_iFzCV7",
+        "judge_me_reviews_featured_carousel_8jWqDj",
         "judge_me_reviews_cards_carousel_jLN9hM",
-        "judge_me_reviews_videos_carousel_yfcwAx"
+        "loox_reviews_loox_dynamic_carousel_iFzCV7"
       ],
       "settings": {
         "full_width": true,
@@ -967,7 +851,6 @@
     "multi_column_6PYHGh",
     "tabs_xqXbTM",
     "multi_column_jkV37C",
-    "collection_list_QEjjGR",
     "177016196334efc811",
     "faq",
     "contact_k3tQ8T"
