@@ -445,6 +445,11 @@
     "checkout": {
       "general": {
         "autocomplete_powered_by_google": "Powered by Mina-Beauty"
+      },
+      "payment": {
+        "add_credit_card_modal": {
+          "title": "Get Yours Now"
+        }
       }
     },
     "links": {
