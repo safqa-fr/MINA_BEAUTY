@@ -353,14 +353,14 @@
     },
     "shipping_estimator": {
       "estimate_shipping": "",
-      "country": "Country",
-      "province": "Province",
+      "country": "",
+      "province": "",
       "zip": "Zip code",
       "estimate": "",
-      "no_results": "Sorry, we do not ship to your address.",
-      "one_result": "There is one shipping rate for your address:",
-      "multiple_results": "There are several shipping rates for your address:",
-      "error": "One or more error occurred while retrieving shipping rates:"
+      "no_results": "",
+      "one_result": "",
+      "multiple_results": "",
+      "error": ""
     }
   },
   "404": {
