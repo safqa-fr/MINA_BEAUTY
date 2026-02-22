@@ -581,7 +581,7 @@
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#342827",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -659,18 +659,12 @@
         "content": "<p>Natural actives for a transformative glow.<br/><br/></p>",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#342827"
       }
     },
     "177016196334efc811": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_featured_carousel_8jWqDj": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        },
         "judge_me_reviews_cards_carousel_jLN9hM": {
           "type": "shopify://apps/judge-me-reviews/blocks/cards_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
@@ -696,7 +690,7 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "header_text_color": "#000000",
-            "text_color": "#000000",
+            "text_color": "#342827",
             "card_color": "#f9f9f9",
             "stars_color": "",
             "arrows_color": "#000000",
@@ -729,7 +723,6 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_featured_carousel_8jWqDj",
         "judge_me_reviews_cards_carousel_jLN9hM",
         "loox_reviews_loox_dynamic_carousel_iFzCV7"
       ],
