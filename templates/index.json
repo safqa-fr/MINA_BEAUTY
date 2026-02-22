@@ -73,6 +73,93 @@
         "overlay_opacity": 19
       }
     },
+    "logo_carousel_custom_LdXYe8": {
+      "type": "logo-carousel-custom",
+      "blocks": {
+        "logo_xRqkVJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/vogue_71bbfbef-8b0a-41ef-addc-aa3214d49a78.svg",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_8DhUrX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_kECDJF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.avif",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_ADmLiT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_H9WNjC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/vogue_71bbfbef-8b0a-41ef-addc-aa3214d49a78.svg",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_t9N6DF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_cD4cnK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.avif",
+            "logo_height": 60,
+            "logo_max_width": 160
+          }
+        },
+        "logo_iHMqaG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_height": 40,
+            "logo_max_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "logo_xRqkVJ",
+        "logo_8DhUrX",
+        "logo_kECDJF",
+        "logo_ADmLiT",
+        "logo_H9WNjC",
+        "logo_t9N6DF",
+        "logo_cD4cnK",
+        "logo_iHMqaG"
+      ],
+      "name": "Logo carousel",
+      "settings": {
+        "bg_color": "#ffffff",
+        "section_height": 90,
+        "carousel_width": 100,
+        "speed": 30,
+        "gap": 40
+      }
+    },
     "rich_text_wQidyC": {
       "type": "rich-text",
       "blocks": {
@@ -89,6 +176,7 @@
       "block_order": [
         "heading_6jn6MH"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -141,6 +229,7 @@
         "logo_BHHPMm",
         "logo_DwJknm"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -859,6 +948,7 @@
   },
   "order": [
     "image_with_text_overlay_pqcaLc",
+    "logo_carousel_custom_LdXYe8",
     "rich_text_wQidyC",
     "logo_list_RQkXDw",
     "image_with_text_overlay_LfQ8kg",
