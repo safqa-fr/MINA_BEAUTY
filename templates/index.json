@@ -375,9 +375,9 @@
           "settings": {
             "image": "shopify://shop_images/PEELSHOT_ampoule2_03-1.webp",
             "column_size": "4",
-            "title": "Shelly F",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>“Liquid gold for mature skin! I don’t care how it works — IT WORKS. My skin felt softer, smoother, and brighter in just three days. Even my 70-year-old mother called me after her first use to tell me how incredibly soft her skin felt!”<br/></p>",
+            "content": "<p><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -388,9 +388,9 @@
           "settings": {
             "video": "shopify://files/videos/7cdb6da00a0348dabe06381c93390d70.HD-1080p-2.5Mbps-59378272.mp4",
             "column_size": "4",
-            "title": "Rebecca B",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>“I was very skeptical at first and worried about getting scammed, but I decided to trust the reviews — and it actually works! Dead skin came off immediately. My skin looks brighter and feels much smoother. The pores on my nose and chin were visibly cleaner after the very first use. I’ll definitely keep using it.”<br/><br/></p>",
+            "content": "<p><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -401,9 +401,9 @@
           "settings": {
             "video": "shopify://files/videos/3d9165bb888644d492dbbbd529675e4f.HD-1080p-2.5Mbps-59378271.mp4",
             "column_size": "4",
-            "title": "Jessie L",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>“I tried the Peel Shot and it’s very easy to use. My skin feels incredibly soft afterward. I was a little worried it might be too harsh, but it didn’t sting and my face didn’t turn red. After a few uses, my skin looked brighter and felt really smooth. It also helped with some rough areas I had. I really appreciate that the ingredients include rice bran water and niacinamide — great, naturally inspired ingredients.”<br/><br/></p>",
+            "content": "<p><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -414,9 +414,9 @@
           "settings": {
             "video": "shopify://files/videos/f597fba0e03e4367a3849aca7e3032c2.HD-1080p-2.5Mbps-59381845.mp4",
             "column_size": "4",
-            "title": "Luana R",
+            "title": "",
             "heading_tag": "h3",
-            "content": "<p>“I LOVE this product! The results are immediate. I accidentally ordered two bottles, but I’m actually glad I did. It really helped remove my blackheads and sebaceous filaments. My skin feels clearer, smoother, and much cleaner since I started using it.”<strong><br/></strong><br/></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
