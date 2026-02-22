@@ -484,7 +484,7 @@
           "settings": {
             "image": "shopify://shop_images/image_2026-02-22_143632616.png",
             "alignment": "center",
-            "max_width": 340
+            "max_width": 350
           }
         },
         "image_9yycVN": {
@@ -492,7 +492,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_paiemejnt.webp",
             "alignment": "center",
-            "max_width": 340
+            "max_width": 350
           }
         },
         "image_pGzLhG": {
@@ -500,7 +500,7 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_18_08-Photoroom_430x_e34f231c-fc72-4563-b697-cab66f87391c.avif",
             "alignment": "center",
-            "max_width": 300
+            "max_width": 350
           }
         },
         "pickup_availability_iFxXpa": {
