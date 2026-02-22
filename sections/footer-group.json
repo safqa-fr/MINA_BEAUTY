@@ -43,13 +43,13 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 28,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
+            "title": "Money-Back Guarantee",
             "content": ""
           }
         },
