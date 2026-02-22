@@ -24,7 +24,7 @@
         "message_gBzMbk": {
           "type": "message",
           "settings": {
-            "text": "Tracked Delivery 6–8 Business Days",
+            "text": "Free Shipping",
             "url": ""
           }
         },
@@ -37,9 +37,8 @@
         },
         "message_HVCFji": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "Free US Shipping",
+            "text": "💘 Winter Sale — Up to 50% Off 💘",
             "url": "shopify://collections/all"
           }
         }
