@@ -493,6 +493,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_bGPpBU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_2026-02-22_143632616.png",
+            "alignment": "center",
+            "max_width": 340
+          }
+        },
         "image_pGzLhG": {
           "type": "image",
           "settings": {
@@ -521,6 +529,7 @@
         "variant_picker_kRpJB6",
         "quantity_selector_LRCr7B",
         "buy_buttons_Wc3czP",
+        "image_bGPpBU",
         "image_pGzLhG",
         "pickup_availability_iFxXpa"
       ],
