@@ -160,213 +160,6 @@
         "gap": 40
       }
     },
-    "rich_text_wQidyC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6jn6MH": {
-          "type": "heading",
-          "settings": {
-            "text": "Seen On :",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6jn6MH"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "logo_list_RQkXDw": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_fKNUX9": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_CCQARf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_BHHPMm": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Elle.avif",
-            "logo_width": 290,
-            "link": ""
-          }
-        },
-        "logo_DwJknm": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_fKNUX9",
-        "logo_CCQARf",
-        "logo_BHHPMm",
-        "logo_DwJknm"
-      ],
-      "disabled": true,
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": false,
-        "title": "",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 4,
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": "rgba(0,0,0,0)",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": "#ffffff"
-      }
-    },
-    "image_with_text_overlay_LfQ8kg": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Gemini_Generated_Image_shtsjtshtsjtshts.png",
-        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_shtsjtshtsjtshts.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 0
-      }
-    },
-    "scrolling_text_ekF8f7": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "An innovative Korean technique",
-        "text_size": "small",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 7,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#342827",
-        "text_gradient": ""
-      }
-    },
-    "video_jdGzza": {
-      "type": "video",
-      "blocks": {
-        "play_7HxJYP": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_7HxJYP"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
-        "mobile_video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_zWX3jm": {
-      "type": "multi-column",
-      "blocks": {
-        "item_8XYzhi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Clients_et_banniere_36_5f434129-abaa-47fc-82c8-76773f73f722_1.webp",
-            "column_size": "3",
-            "title": "Luana R.",
-            "heading_tag": "h3",
-            "content": "<h5>I never thought I’d see results this quickly. I absolutely recommend it.<br/></h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_7irLWY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/8-min.webp",
-            "column_size": "3",
-            "title": "Jessie L.",
-            "heading_tag": "h3",
-            "content": "<h5>I’ve always struggled with blemish-prone skin. Since using this Peel Shot, I finally feel confident taking photos again — and I truly feel good in my own skin!<br/><br/></h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_e3dxW8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Clients_et_banniere_46.webp",
-            "column_size": "3",
-            "title": "Kendra W.",
-            "heading_tag": "h4",
-            "content": "<h5>I was using a similar product that cost $75 and dried out fast. This one is way better — lightweight serum texture, more affordable, and my skin has never felt softer. I have rosacea and had no irritation at all. Highly recommend!<br/><br/></h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_8XYzhi",
-        "item_7irLWY",
-        "item_e3dxW8"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Over 7,000 women have already adopted it — what about you?",
-        "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers !</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#342827"
-      }
-    },
     "featured_product_UMefcp": {
       "type": "featured-product",
       "blocks": {
@@ -545,6 +338,126 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_LfQ8kg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_shtsjtshtsjtshts.png",
+        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_shtsjtshtsjtshts.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "scrolling_text_ekF8f7": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "An innovative Korean technique",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#342827",
+        "text_gradient": ""
+      }
+    },
+    "video_jdGzza": {
+      "type": "video",
+      "blocks": {
+        "play_7HxJYP": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_7HxJYP"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
+        "mobile_video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_zWX3jm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_8XYzhi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Clients_et_banniere_36_5f434129-abaa-47fc-82c8-76773f73f722_1.webp",
+            "column_size": "3",
+            "title": "Luana R.",
+            "heading_tag": "h3",
+            "content": "<h5>I never thought I’d see results this quickly. I absolutely recommend it.<br/></h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7irLWY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8-min.webp",
+            "column_size": "3",
+            "title": "Jessie L.",
+            "heading_tag": "h3",
+            "content": "<h5>I’ve always struggled with blemish-prone skin. Since using this Peel Shot, I finally feel confident taking photos again — and I truly feel good in my own skin!<br/><br/></h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_e3dxW8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Clients_et_banniere_46.webp",
+            "column_size": "3",
+            "title": "Kendra W.",
+            "heading_tag": "h4",
+            "content": "<h5>I was using a similar product that cost $75 and dried out fast. This one is way better — lightweight serum texture, more affordable, and my skin has never felt softer. I have rosacea and had no irritation at all. Highly recommend!<br/><br/></h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_8XYzhi",
+        "item_7irLWY",
+        "item_e3dxW8"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Over 7,000 women have already adopted it — what about you?",
+        "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers !</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#342827"
       }
     },
     "multi_column_6PYHGh": {
@@ -1053,13 +966,11 @@
   "order": [
     "image_with_text_overlay_pqcaLc",
     "logo_carousel_custom_LdXYe8",
-    "rich_text_wQidyC",
-    "logo_list_RQkXDw",
+    "featured_product_UMefcp",
     "image_with_text_overlay_LfQ8kg",
     "scrolling_text_ekF8f7",
     "video_jdGzza",
     "multi_column_zWX3jm",
-    "featured_product_UMefcp",
     "multi_column_6PYHGh",
     "tabs_xqXbTM",
     "multi_column_jkV37C",
