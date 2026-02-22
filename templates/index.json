@@ -294,7 +294,7 @@
       "name": "Video",
       "settings": {
         "full_width": false,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
         "video": "shopify://files/videos/4be448cdf24347cba1f271d477a05d31.HD-1080p-7.2Mbps-61073578.mp4",
@@ -302,7 +302,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
-        "overlay_opacity": 0
+        "overlay_opacity": 40
       }
     },
     "multi_column_zWX3jm": {
