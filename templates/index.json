@@ -347,7 +347,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
-        "overlay_opacity": 10
+        "overlay_opacity": 8
       }
     },
     "scrolling_text_ekF8f7": {
