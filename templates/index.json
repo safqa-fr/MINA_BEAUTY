@@ -112,7 +112,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/vogue_71bbfbef-8b0a-41ef-addc-aa3214d49a78.svg",
-            "logo_height": 60,
+            "logo_height": 30,
             "logo_max_width": 160
           }
         },
@@ -128,7 +128,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Elle.avif",
-            "logo_height": 60,
+            "logo_height": 30,
             "logo_max_width": 160
           }
         },
