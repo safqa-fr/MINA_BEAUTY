@@ -501,6 +501,14 @@
             "max_width": 340
           }
         },
+        "image_9yycVN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge_paiemejnt.webp",
+            "alignment": "center",
+            "max_width": 340
+          }
+        },
         "image_pGzLhG": {
           "type": "image",
           "settings": {
@@ -530,6 +538,7 @@
         "quantity_selector_LRCr7B",
         "buy_buttons_Wc3czP",
         "image_bGPpBU",
+        "image_9yycVN",
         "image_pGzLhG",
         "pickup_availability_iFxXpa"
       ],
