@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Get 10% off your first Peel Shot order when you join the club",
+            "title": "Sign up for new stories and personal offers",
             "content": ""
           }
         },
@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Contact Us",
-            "content": "<p><strong>Customer Service :</strong><br/></p><p><a>hello@mina-beauty.com</a></p><p><strong>Customer Hours :</strong><br/></p><p>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
+            "content": "<p><strong>Customer Service :</strong><br/></p><p><a>hello@mina-beauty.com</a></p><p><strong>Business Hours :</strong><br/></p><p>Monday to Friday: 9:00 a.m. – 12:00 p.m. and 2:00 p.m. – 6:00 p.m.<br/>Saturday and Sunday: 10:00 a.m. – 12:00 p.m.</p>",
             "enable_follow_on_shop": true
           }
         }
