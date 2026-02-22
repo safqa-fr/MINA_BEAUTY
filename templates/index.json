@@ -608,7 +608,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/22_1.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "NIACINAMIDE",
             "heading_tag": "h3",
             "content": "<p>Brightening & Pore RefiningHelps improve skin clarity, balance excess oil, and visibly minimize the appearance of pores for a smoother, more even-looking complexion.<br/><br/></p>",
@@ -621,7 +621,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/La_Fourche_-_Riz_Thai_Demi-Complet_Bio_En_Sachet_Kraft.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "RICE EXTRACT",
             "heading_tag": "h3",
             "content": "<p>Natural Smoothing & RadianceHelps remove excess oil and dead skin cells for smoother, softer skin and visibly improved texture.<br/></p>",
@@ -634,7 +634,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/AHA_vs__BHA_Exfoliants__What_s_the_Difference.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "AHA + BHA",
             "heading_tag": "h3",
             "content": "<p>Gentle Yet Deep ExfoliationHelps gently remove dead skin cells, deeply unclog pores, and refine skin texture for a smoother, brighter, and more even-looking complexion.</p>",
@@ -647,7 +647,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Skincode-Ingredients-Pentavitin.webp",
-            "column_size": "3",
+            "column_size": "4",
             "title": "PENTAVITIN",
             "heading_tag": "h3",
             "content": "<p>Long-Lasting HydrationHelps lock moisture into the skin, prevent post-exfoliation dryness, and keep your skin feeling comfortable and hydrated all day long.</p>",
@@ -671,7 +671,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "High-Quality Ingredients !",
-        "content": "",
+        "content": "<p>Natural actives for a transformative glow.<br/><br/></p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
