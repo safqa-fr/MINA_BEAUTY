@@ -88,7 +88,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_height": 60,
+            "logo_height": 100,
             "logo_max_width": 160
           }
         },
@@ -120,7 +120,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_height": 60,
+            "logo_height": 100,
             "logo_max_width": 160
           }
         },
