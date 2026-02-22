@@ -315,7 +315,7 @@
             "column_size": "3",
             "title": "Luana R.",
             "heading_tag": "h3",
-            "content": "<p>I never thought I’d see results this quickly. I absolutely recommend it.<br/></p>",
+            "content": "<h5>I never thought I’d see results this quickly. I absolutely recommend it.<br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -328,7 +328,7 @@
             "column_size": "3",
             "title": "Jessie L.",
             "heading_tag": "h3",
-            "content": "<p>I’ve always struggled with blemish-prone skin. Since using this Peel Shot, I finally feel confident taking photos again — and I truly feel good in my own skin!<br/><br/></p>",
+            "content": "<h5>I’ve always struggled with blemish-prone skin. Since using this Peel Shot, I finally feel confident taking photos again — and I truly feel good in my own skin!<br/><br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -341,7 +341,7 @@
             "column_size": "3",
             "title": "Kendra W.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<h5>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
