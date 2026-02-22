@@ -341,7 +341,7 @@
             "column_size": "3",
             "title": "Kendra W.",
             "heading_tag": "h4",
-            "content": "<h5>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</h5>",
+            "content": "<h5>I was using a similar product that cost $75 and dried out fast. This one is way better — lightweight serum texture, more affordable, and my skin has never felt softer. I have rosacea and had no irritation at all. Highly recommend!<br/><br/></h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -362,82 +362,6 @@
         "subheading": "",
         "title": "Over 7,000 women have already adopted it — what about you?",
         "content": "<p>⭐ <strong>4.8/5</strong> – Loved by over 10,000 customers !</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#342827"
-      }
-    },
-    "multi_column_6PYHGh": {
-      "type": "multi-column",
-      "blocks": {
-        "item_qkaN9N": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PEELSHOT_ampoule2_03-1.webp",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "button"
-          }
-        },
-        "item_jCbNJy": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/7cdb6da00a0348dabe06381c93390d70.HD-1080p-2.5Mbps-59378272.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "button"
-          }
-        },
-        "item_UnCJC4": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/3d9165bb888644d492dbbbd529675e4f.HD-1080p-2.5Mbps-59378271.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "button"
-          }
-        },
-        "item_rVk6rN": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/f597fba0e03e4367a3849aca7e3032c2.HD-1080p-2.5Mbps-59381845.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "button"
-          }
-        }
-      },
-      "block_order": [
-        "item_qkaN9N",
-        "item_jCbNJy",
-        "item_UnCJC4",
-        "item_rVk6rN"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": "#342827"
@@ -621,6 +545,82 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_6PYHGh": {
+      "type": "multi-column",
+      "blocks": {
+        "item_qkaN9N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PEELSHOT_ampoule2_03-1.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button"
+          }
+        },
+        "item_jCbNJy": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/7cdb6da00a0348dabe06381c93390d70.HD-1080p-2.5Mbps-59378272.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button"
+          }
+        },
+        "item_UnCJC4": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/3d9165bb888644d492dbbbd529675e4f.HD-1080p-2.5Mbps-59378271.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "<p><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button"
+          }
+        },
+        "item_rVk6rN": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f597fba0e03e4367a3849aca7e3032c2.HD-1080p-2.5Mbps-59381845.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button"
+          }
+        }
+      },
+      "block_order": [
+        "item_qkaN9N",
+        "item_jCbNJy",
+        "item_UnCJC4",
+        "item_rVk6rN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#342827"
       }
     },
     "tabs_xqXbTM": {
@@ -1059,8 +1059,8 @@
     "scrolling_text_ekF8f7",
     "video_jdGzza",
     "multi_column_zWX3jm",
-    "multi_column_6PYHGh",
     "featured_product_UMefcp",
+    "multi_column_6PYHGh",
     "tabs_xqXbTM",
     "multi_column_jkV37C",
     "collection_list_QEjjGR",
