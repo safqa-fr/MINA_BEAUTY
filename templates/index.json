@@ -549,7 +549,7 @@
       "name": "Tabs",
       "settings": {
         "full_width": true,
-        "content_size": "small",
+        "content_size": "medium",
         "subheading": "",
         "title": "",
         "text_alignment": "center",
