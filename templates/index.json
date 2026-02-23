@@ -247,7 +247,7 @@
           "settings": {
             "image": "shopify://shop_images/image_2026-02-22_143632616.png",
             "alignment": "center",
-            "max_width": 350
+            "max_width": 400
           }
         },
         "image_9yycVN": {
@@ -255,7 +255,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_paiemejnt.webp",
             "alignment": "center",
-            "max_width": 350
+            "max_width": 400
           }
         },
         "image_pGzLhG": {
@@ -263,7 +263,7 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_dec._2025_21_18_08-Photoroom_430x_e34f231c-fc72-4563-b697-cab66f87391c.avif",
             "alignment": "center",
-            "max_width": 350
+            "max_width": 400
           }
         },
         "pickup_availability_iFxXpa": {
@@ -374,7 +374,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "They tried it… and they approve! ✅",
