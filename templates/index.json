@@ -311,24 +311,11 @@
     "multi_column_6PYHGh": {
       "type": "multi-column",
       "blocks": {
-        "item_qkaN9N": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PEELSHOT_ampoule2_03-1.webp",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h3",
-            "content": "<p><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "button"
-          }
-        },
         "item_jCbNJy": {
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/7cdb6da00a0348dabe06381c93390d70.HD-1080p-2.5Mbps-59378272.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h3",
             "content": "<p><br/></p>",
@@ -341,7 +328,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/3d9165bb888644d492dbbbd529675e4f.HD-1080p-2.5Mbps-59378271.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h3",
             "content": "<p><br/></p>",
@@ -354,7 +341,7 @@
           "type": "item",
           "settings": {
             "video": "shopify://files/videos/f597fba0e03e4367a3849aca7e3032c2.HD-1080p-2.5Mbps-59381845.mp4",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h3",
             "content": "",
@@ -365,7 +352,6 @@
         }
       },
       "block_order": [
-        "item_qkaN9N",
         "item_jCbNJy",
         "item_UnCJC4",
         "item_rVk6rN"
