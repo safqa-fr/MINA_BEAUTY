@@ -311,6 +311,19 @@
     "multi_column_6PYHGh": {
       "type": "multi-column",
       "blocks": {
+        "item_dTqmDK": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/fe0c4c523904487bacb996854222fb1d.HD-1080p-2.5Mbps-59382754.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_YD4yGr": {
           "type": "item",
           "settings": {
@@ -378,6 +391,7 @@
         }
       },
       "block_order": [
+        "item_dTqmDK",
         "item_YD4yGr",
         "item_Ac6mYQ",
         "item_jCbNJy",
