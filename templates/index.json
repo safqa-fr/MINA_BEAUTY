@@ -311,6 +311,32 @@
     "multi_column_6PYHGh": {
       "type": "multi-column",
       "blocks": {
+        "item_YD4yGr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PEELSHOT_ampoule2_03.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ac6mYQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PEELSHOT_ampoule2_03-1.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_jCbNJy": {
           "type": "item",
           "settings": {
@@ -352,6 +378,8 @@
         }
       },
       "block_order": [
+        "item_YD4yGr",
+        "item_Ac6mYQ",
         "item_jCbNJy",
         "item_UnCJC4",
         "item_rVk6rN"
